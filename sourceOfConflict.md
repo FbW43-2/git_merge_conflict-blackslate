@@ -2,9 +2,9 @@
 
  # Client-approved header
 
-* List
-* of
-* bullet
-* points
+1. List
+1. of
+1. numbered
+1. items
 
-<p> There <span>is a bug</span> in this file</p>
+<p>There is no bug in this file</p>
